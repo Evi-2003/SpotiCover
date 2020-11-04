@@ -6,9 +6,6 @@ import spotipy
 import win32gui
 from spotipy.oauth2 import SpotifyOAuth
 import spotipy.util as util
-import webbrowser
-from IPython.display import display, Image
-from PIL import Image
 from urllib.parse import urlparse
 from posixpath import basename, dirname
 import wget
