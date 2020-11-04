@@ -1,5 +1,5 @@
-# SpotiThumb
-A script to get the thumbnail for the song, and displaying it on Windows. Locked to one corner of the screen. 
+# SpotiCover
+A script to get the cover image for the song, and displaying it on Windows. Locked to one corner of the screen. 
 # API
 I will be using Spotify's API
 # Language 
