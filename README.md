@@ -12,7 +12,7 @@ Will be using Python
 # Music Player
  For now you will need to use Spotify
 # Issues
- - Currently the image shows up, centers, and if you have your mouse over it, it will say 'not responding'. This had to do with root.mainloop() .. I'm using root.update() otherwise the rest of the code won't run. I have to find a workaround for it. 
+ - Currently the image shows up, centers, and if you have your mouse over it, it will say 'not responding'. This has something to do with root.mainloop() .. I'm using root.update() otherwise the rest of the code won't run. I have to find a workaround for it. 
  If you experience other issues, report them!
 # To-Do
 I will be using some code of SpotiPlay
