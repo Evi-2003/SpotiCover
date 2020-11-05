@@ -5,6 +5,8 @@ On the Spotify Developers Dashboard you will need to create a new 'app'. You wil
 Edit the run.py file and change the variables client_id and client_secret. Also change the username, which is not the same as your email. You can find it at spotify.com > account > username. It is often a long string of random letters and numbers. 
 
 Now just run the script, and it should work! (Well, after installing the requirements)
+To start the script properly, open cmd, cd in the folder you have the files, then do: python run.py  (otherwise it won't save the image to the correct folder)
+
 # API
 I will be using Spotify's API
 # Language 
