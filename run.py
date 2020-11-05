@@ -17,13 +17,13 @@ from PIL import Image
 import threading
 # We need some Authentication.
 # The Client_ID Client_Secret And Username needs to be set by yourself, for now.
-username = "xw4dm4tsfaduaewklngslmilj"
+username = "-"
 scope = "user-read-currently-playing"
 token = util.prompt_for_user_token(
     username,
     scope,
-    client_id='75eb854eddec4ea0a3f02b6de123c2bc',
-    client_secret='d07026c49b1640139858a3ba7bbc3254',
+    client_id='-',
+    client_secret='-',
     redirect_uri='http://example.com/callback/')
 
 
