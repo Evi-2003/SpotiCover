@@ -9,6 +9,7 @@ Will be using Python
   - spotipy
   - wget
   - tkinter
+  - Pillow
 # Music Player
  For now you will need to use Spotify
 # Issues
