@@ -1,5 +1,10 @@
 # SpotiCover
 A script to get the cover image for the song, and displaying it on Windows. Locked to one corner of the screen. 
+# Usage
+On the Spotify Developers Dashboard you will need to create a new 'app'. You will get a client id and a client secret. 
+Edit the run.py file and change the variables client_id and client_secret. Also change the username, which is not the same as your email. You can find it at spotify.com > account > username. It is often a long string of random letters and numbers. 
+
+Now just run the script, and it should work! (Well, after installing the requirements)
 # API
 I will be using Spotify's API
 # Language 
@@ -25,4 +30,4 @@ I will be using some code of SpotiPlay
 - [X] Centering it to a corner. 
 # Maybe in the future
 - [ ] Showing the name of the song below the cover image. 
-
+- [ ] Making it more user friendly
