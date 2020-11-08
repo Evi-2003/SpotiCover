@@ -30,6 +30,7 @@ I will be using some code of SpotiPlay
 - [X] Chaning the extention of the file downloaded, to a .jpg so i can display it. 
 - [X] Displaying the image, but not with the Windows 10 photos app. Need to find a better way. 
 - [X] Centering it to a corner. 
+- [ ] Fixing the issue above
 - [ ] Force it at top of any other application
 # Maybe in the future
 - [ ] Showing the name of the song below the cover image. 
